@@ -20,7 +20,7 @@ Avatarify is a powerful platform for real-time video manipulation using advanced
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/avatarify.git
+   git clone https://github.com/AGITRONICS/avatarify.git
    cd avatarify
    ```
 
@@ -59,7 +59,10 @@ You may need to adjust the paths for the face swap model, style transfer model, 
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+If you like this work, or use it to make money, a tip would be most helpful in further developmemnt of this or other things. 
+btc: 3Kz2rfM7E3nN8ovbMcggWMW7maQar7zhdW
+eth: 0x7b6Df61215C3DE2138Ee52Cc22cFa7eBbc9c7789
+
 
 ## License
 
